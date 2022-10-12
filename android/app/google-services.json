@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "81793487491",
+    "project_id": "newpro-b059b",
+    "storage_bucket": "newpro-b059b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81793487491:android:eca4ff37bd322ddca141b6",
+        "android_client_info": {
+          "package_name": "com.newtry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81793487491-cbttj1jpbvj9bh5jslmdv1j5pn5gduau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.newtry",
+            "certificate_hash": "22fa377a610175504b13ef6d7d97f83d5e05a367"
+          }
+        },
+        {
+          "client_id": "81793487491-ls39mvelfl90hkg28u3enajiqddqeeql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiIjdZ_7ZHMmXOi2ZsLeO86GaNAnhTNRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81793487491-ls39mvelfl90hkg28u3enajiqddqeeql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
